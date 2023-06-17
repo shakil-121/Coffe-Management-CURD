@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+.header {
+  background-image: url('../../assets/more/navbg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70px;
+} 
+
+.header h1{
+    font-family: 'Concert One', cursive;
+}
